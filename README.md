@@ -2,7 +2,7 @@ node rpm specfile
 =================
 Node.js does not come with RPMs for CentOS 6.3. Here are instructions to build node rpms from source.
 
-*This branch (`python26`) is meant for systems like CentOS 5 that have an old version of `python` installed and need to use the python26 package to build the node RPM.*
+*This branch (python26) is meant for systems like CentOS 5 that have an old version of python installed and need to use the python26 package to build the node RPM.*
 
 Steps to build
 --------------------------------------------------------
