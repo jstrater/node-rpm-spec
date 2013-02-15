@@ -27,6 +27,7 @@ the architectures of many Internet applications.
 
 %build
 export JOBS=%{jobs}
+export PYTHON=/usr/bin/python26
 python26 ./configure --prefix=/usr
 make
 
